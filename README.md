@@ -5,8 +5,11 @@ This is a template for Guadalupe Cano.
 The pages that are "completed" are:
 
 index.html
+
 tratamientos-faciales/index.html
+
 tratamientos-faciales/mesoterapia.html
+
 depilacion/index.html
 
 
