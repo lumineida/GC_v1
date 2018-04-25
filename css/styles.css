@@ -182,9 +182,90 @@ body {
 }
 
 .facial-bg-1 {
-  background-image: url("../images/faciales/header-bg-1.jpg");
+  background-image: url("../images/faciales/facial-bg-1.png");
 }
-  
+
+.facial-bg-2 {
+  background-image: url("../images/faciales/facial-bg-2.png");
+}
+
+.facial-bg-3 {
+  background-image: url("../images/faciales/facial-bg-3.png");
+}
+
+.facial-bg-4 {
+  background-image: url("../images/faciales/facial-bg-4.png");
+}
+
+.facial-bg-5 {
+  background-image: url("../images/faciales/facial-bg-5.png");
+}
+
+.facial-bg-6 {
+  background-image: url("../images/faciales/facial-bg-6.png");
+}
+.facial-bg-infini {
+  background-image: url("../images/faciales/infini-bg.png");
+}
+
+.facial-bg-freeze {
+  background-image: url("../images/faciales/venus-freeze-bg.png");
+}
+
+.capilar-bg-1 {
+  background-image: url("../images/capilares/capilar-bg-1.png");
+}
+
+.capilar-bg-2 {
+  background-image: url("../images/capilares/capilar-bg-2.png");
+}
+
+  /* BACK TO TOP
+  -------------------------------------------------- */
+
+#return-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  width: 50px;
+  height: 50px;
+  display: block;
+  text-decoration: none;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  display: none;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+#return-to-top svg {
+  color: #fff;
+  margin: 0;
+  position: relative;
+  left: 16px;
+  top: 10px;
+  font-size: 30px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+#return-to-top:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+#return-to-top:hover svg {
+  color: #fff;
+  top: 3px;
+}
+
+
+
   /* RESPONSIVE CSS
   -------------------------------------------------- */
   
